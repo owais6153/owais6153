@@ -6,7 +6,7 @@
       <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
       <a href="mailto:owais6153@gmail.com"  align="center">
-      <img  align="center" src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=Email&logoColor=white" alt="Gmail Badge"/>
+      <img  align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://join.skype.com/invite/v1ooCh7XlUdU"  align="center">
       <img  align="center" src="https://img.shields.io/badge/-Skype-00aff0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
@@ -14,7 +14,7 @@
     <br><br>
     <picture align="center">
         <source 
-        srcset="https://streak-stats.demolab.com/?user=owais6153&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"
+        srcset="https://streak-stats.demolab.com/?user=owais6153&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_border=true"
         media="(prefers-color-scheme: dark)"
         />
         <source
@@ -35,6 +35,8 @@
         />
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owais6153&theme=github_dark" />
     </picture>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=owais6153&theme=github_dark&layout=compact&border=false&hide_border=true"/>
   
 ## Skills
   
