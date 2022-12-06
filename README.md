@@ -6,10 +6,10 @@
       <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
       <a href="mailto:owais6153@gmail.com"  align="center">
-      <img  align="center" src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
+      <img  align="center" src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=Email&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="[your-youtube-URL](https://www.facebook.com/osk.owais/)"  align="center">
-      <img  align="center" src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
+    <a href="https://join.skype.com/invite/v1ooCh7XlUdU"  align="center">
+      <img  align="center" src="https://img.shields.io/badge/-Skype-00aff0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
     </a>
     <br><br>
     <picture align="center">
