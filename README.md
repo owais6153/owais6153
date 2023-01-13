@@ -36,8 +36,6 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owais6153&theme=github_dark" />
     </picture>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=owais6153&theme=github_dark&layout=compact&border=false&hide_border=true"/>
-  
 ## Skills
   
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
