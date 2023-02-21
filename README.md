@@ -54,9 +54,8 @@
 <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql" alt="mysql">
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws" alt="aws">
 <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" alt="git">
+<img src="https://img.shields.io/badge/-Mongo%20db-black?style=for-the-badge&logo=mongodb" alt="Mongo DB">
+<img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express" alt="Express.js">
 </div>  
-
-
-
 
 
