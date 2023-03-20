@@ -36,7 +36,19 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owais6153&theme=github_dark" />
     </picture>
   <br>
-
+      <picture align="center">
+        <source 
+        srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=owais6153&theme=github_dark"
+        media="(prefers-color-scheme: dark)"
+        />
+        <source
+        srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=owais6153&theme=github_dark"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=owais6153&theme=github_dark" />
+    </picture>
+  <br>
+  
 ## Skills
  
 <br>  
