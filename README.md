@@ -14,14 +14,14 @@
     <br><br>
     <picture align="center">
         <source 
-        srcset="https://streak-stats.demolab.com/?user=owais6153&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_border=true"
+        srcset="https://streak-stats.demolab.com/?user=owais6153&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&mode=daily&hide_border=true"
         media="(prefers-color-scheme: dark)"
         />
         <source
-        srcset="https://streak-stats.demolab.com/?user=owais6153&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"
+        srcset="https://streak-stats.demolab.com/?user=owais6153&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&mode=daily"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://streak-stats.demolab.com/?user=owais6153&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
+        <img src="https://streak-stats.demolab.com/?user=owais6153&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&mode=daily" />
     </picture>
     <br> 
     <picture align="center">
