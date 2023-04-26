@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/owais6153/"  align="center">
+    <a href="https://www.linkedin.com/in/muhammad6153/"  align="center">
       <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-      <a href="mailto:owais6153@gmail.com"  align="center">
+      <a href="mailto:muhammad6153@gmail.com"  align="center">
       <img  align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://join.skype.com/invite/v1ooCh7XlUdU"  align="center">
@@ -14,38 +14,38 @@
     <br><br>
     <picture align="center">
         <source 
-        srcset="https://streak-stats.demolab.com/?user=owais6153&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&mode=daily&hide_border=true"
+        srcset="https://streak-stats.demolab.com/?user=muhammad6153&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&mode=daily&hide_border=true"
         media="(prefers-color-scheme: dark)"
         />
         <source
-        srcset="https://streak-stats.demolab.com/?user=owais6153&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&mode=daily"
+        srcset="https://streak-stats.demolab.com/?user=muhammad6153&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&mode=daily"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://streak-stats.demolab.com/?user=owais6153&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&mode=daily" />
+        <img src="https://streak-stats.demolab.com/?user=muhammad6153&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&mode=daily" />
     </picture>
     <br> 
     <picture align="center">
         <source 
-        srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owais6153&theme=github_dark"
+        srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad6153&theme=github_dark"
         media="(prefers-color-scheme: dark)"
         />
         <source
-        srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owais6153&theme=github_dark"
+        srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad6153&theme=github_dark"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=owais6153&theme=github_dark" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad6153&theme=github_dark" />
     </picture>
   <br>
       <picture align="center">
         <source 
-        srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=owais6153&theme=github_dark"
+        srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammad6153&theme=github_dark"
         media="(prefers-color-scheme: dark)"
         />
         <source
-        srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=owais6153&theme=github_dark"
+        srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammad6153&theme=github_dark"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=owais6153&theme=github_dark" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammad6153&theme=github_dark" />
     </picture>
   <br>
   
