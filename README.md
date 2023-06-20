@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/muhammad6153/"  align="center">
+    <a href="https://www.linkedin.com/in/owais6153/"  align="center">
       <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-      <a href="mailto:muhammad6153@gmail.com"  align="center">
+      <a href="mailto:owais6153@gmail.com"  align="center">
       <img  align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://join.skype.com/invite/v1ooCh7XlUdU"  align="center">
