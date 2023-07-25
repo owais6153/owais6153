@@ -56,6 +56,7 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="css">
 <img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap" alt="bootstrap">
+<img src="https://img.shields.io/badge/-Tailwind-222?style=for-the-badge&logo=tailwindcss" alt="tailwind css">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" alt="javascript">
 <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" alt="react">
@@ -76,6 +77,7 @@
 <img src="https://img.shields.io/badge/-postman-f15d27?style=for-the-badge&logo=postman&logoColor=white" alt="postman">
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img alt="yarn" src="https://img.shields.io/badge/-Yarn-2188b6?style=for-the-badge&logo=yarn&logoColor=white" />
+<img alt="composer" src="https://img.shields.io/badge/-PHP_Composer-000?style=for-the-badge&logo=composer" />
 </div>  
 
 
