@@ -51,3 +51,4 @@
     <a href="https://join.skype.com/invite/v1ooCh7XlUdU"  align="center">
       <img  align="center" src="https://img.shields.io/badge/-Skype-00aff0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
     </a>
+    <!-- Trophies https://github-profile-trophy.vercel.app/?username=owais6153-->
