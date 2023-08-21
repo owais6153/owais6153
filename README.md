@@ -1,57 +1,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/owais6153/"  align="center">
-      <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-      <a href="mailto:owais6153@gmail.com"  align="center">
-      <img  align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <a href="https://join.skype.com/invite/v1ooCh7XlUdU"  align="center">
-      <img  align="center" src="https://img.shields.io/badge/-Skype-00aff0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
-    </a>
-    <br><br>
-    <picture align="center">
-        <source 
-        srcset="https://streak-stats.demolab.com/?user=muhammad6153&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&mode=daily&hide_border=true"
-        media="(prefers-color-scheme: dark)"
-        />
-        <source
-        srcset="https://streak-stats.demolab.com/?user=muhammad6153&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&mode=daily"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://streak-stats.demolab.com/?user=muhammad6153&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&mode=daily" />
-    </picture>
-    <br> 
-    <picture align="center">
-        <source 
-        srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad6153&theme=github_dark"
-        media="(prefers-color-scheme: dark)"
-        />
-        <source
-        srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad6153&theme=github_dark"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad6153&theme=github_dark" />
-    </picture>
-  <br>
-      <picture align="center">
-        <source 
-        srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammad6153&theme=github_dark"
-        media="(prefers-color-scheme: dark)"
-        />
-        <source
-        srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammad6153&theme=github_dark"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammad6153&theme=github_dark" />
-    </picture>
-  <br>
-  
-## Skills
- 
-<br>  
+<h1>Hello!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+
+<p>Welcome to my page! </br> </br> This is Owais Khan, currently working as a Software Development Engineer. I am a Full Stack developer with more than 5 years of experience in design, development, and support for web/mobile applications.</p>
+
+<h3>Technologies and Tools I code with</h3>
+
+
+<div id="badges">
+
+
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="css">
 <img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
@@ -79,5 +38,16 @@
 <img alt="yarn" src="https://img.shields.io/badge/-Yarn-2188b6?style=for-the-badge&logo=yarn&logoColor=white" />
 <img alt="composer" src="https://img.shields.io/badge/-PHP_Composer-000?style=for-the-badge&logo=composer" />
 </div>  
-
-
+<h3>Where to find me</h3>
+    <a href="https://github.com/owais6153"  align="center">
+      <img  align="center" src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/owais6153/"  align="center">
+      <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+      <a href="mailto:owais6153@gmail.com"  align="center">
+      <img  align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://join.skype.com/invite/v1ooCh7XlUdU"  align="center">
+      <img  align="center" src="https://img.shields.io/badge/-Skype-00aff0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
+    </a>
