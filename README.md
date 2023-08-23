@@ -1,6 +1,6 @@
-<div id="header" align="center">
+<!--<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div>-->
 <h1>Hello!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <p>Welcome to my page! </br> </br> This is Owais Khan, currently working as a Software Development Engineer. I am a Full Stack developer with more than 5 years of experience in design, development, and support for web/mobile applications.</p>
