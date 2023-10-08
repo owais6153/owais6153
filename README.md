@@ -1,7 +1,9 @@
 <!--<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>-->
-<h1>Hello!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=owais6153&label=Profile%20views&color=0e75b6&style=flat" alt="owais6153" /> </p>
+<h1>Hello!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
 <p>Welcome to my page! </br> </br> This is Owais Khan, currently working as a Software Development Engineer. I am a Full Stack developer with more than 5 years of experience in design, development, and support for web/mobile applications.</p>
 
@@ -50,4 +52,9 @@
     <a href="https://join.skype.com/invite/v1ooCh7XlUdU"  align="center">
       <img  align="center" src="https://img.shields.io/badge/-Skype-00aff0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
     </a>
-    <!-- Trophies https://github-profile-trophy.vercel.app/?username=owais6153-->
+    
+
+
+
+
+
