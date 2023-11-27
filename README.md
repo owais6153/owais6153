@@ -1,18 +1,11 @@
-<!--<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>-->
+Welcome to my digital playground! I'm Owais Khan, your go-to Full Stack Maestro, on a mission to transform ideas into stunning, functional digital experiences. 💡💻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=owais6153&label=Profile%20views&color=0e75b6&style=flat" alt="owais6153" /> </p>
-<h1>Hello!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
+<h2>🌐 About Me:</h2>
+With over 5 years in the web development trenches, I've navigated the ever-evolving tech landscape with zeal. My journey has been marked by creating captivating front-end interfaces, architecting robust back-end infrastructures, and sprinkling a bit of magic into every line of code.
 
-<p>Welcome to my page! </br> </br> This is Owais Khan, currently working as a Software Development Engineer. I am a Full Stack developer with more than 5 years of experience in design, development, and support for web/mobile applications.</p>
-
-<h3>Technologies and Tools I code with</h3>
-
-
-<div id="badges">
-
-
+<h2>🛠️ My Arsenal:</h2>
+<h3>Front-End Alchemy:</h3>
+<div style="display: flex; gap: 5px;">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="css">
 <img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
@@ -24,37 +17,63 @@
 <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux" alt="redux">
 <img src="https://img.shields.io/badge/-Nextjs-556070?style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js">
 <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/-Mongo%20db-black?style=for-the-badge&logo=mongodb" alt="Mongo DB">
+</div>
+<h3>Back-End Wizardry:</h3>
+<div style="display: flex; gap: 5px;">
 <img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express" alt="Express.js">
 <img src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js" alt="node">
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/-Wordpress-00749c?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress">
-<img src="https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=Php" alt="php">
+<img src="https://img.shields.io/badge/-Wordpress%20Backend-00749c?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress">
+  <img src="https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=Php" alt="php">
 <img src="https://img.shields.io/badge/-Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel">
+</div>
+<h3>CMS Mastery:</h3>
+<div style="display: flex; gap: 5px;">
+<img src="https://img.shields.io/badge/-WIX-black?style=for-the-badge&logo=wix" alt="wix">
+<img src="https://img.shields.io/badge/-Wordpress-00749c?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress">
+<img src="https://img.shields.io/badge/-Webflow-black?style=for-the-badge&logo=webflow" alt="webflow">
+<img src="https://img.shields.io/badge/-shopify-95bf47?style=for-the-badge&logoColor=white&logo=shopify" alt="shopify">
+<img src="https://img.shields.io/badge/-squarespace-black?style=for-the-badge&logo=squarespace" alt="squarespace">
+<img src="https://img.shields.io/badge/-hubspot-ff7e5e?style=for-the-badge&logoColor=white&logo=hubspot" alt="hubspot">
+</div>
+<h3>Database Sorcery:</h3>
+
+<div style="display: flex; gap: 5px;">
+  <img src="https://img.shields.io/badge/-Mongo%20db-black?style=for-the-badge&logo=mongodb" alt="Mongo DB">
 <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql" alt="mysql">
-<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws" alt="aws">
+</div>
+<h3>Git Enchantments:</h3>
+<div style="display: flex; gap: 5px;">
 <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" alt="git">
+<img src="https://img.shields.io/badge/-github-black?style=for-the-badge&logoColor=white&logo=github" alt="github">
+<img src="https://img.shields.io/badge/-bitbucket-black?style=for-the-badge&logoColor=white&logo=bitbucket" alt="github">
+</div>
+<h3>DevOps Incantations:</h3>
+<div style="display: flex; gap: 5px;">
 <img src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="Github_Actions">
-<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" alt="webpack">
-<img src="https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="pwa">
-<img src="https://img.shields.io/badge/-postman-f15d27?style=for-the-badge&logo=postman&logoColor=white" alt="postman">
-</div>  
-<h3>Where to find me</h3>
-    <a href="https://github.com/owais6153"  align="center">
-      <img  align="center" src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/owais6153/"  align="center">
-      <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-      <a href="mailto:owais6153@gmail.com"  align="center">
-      <img  align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <a href="https://join.skype.com/invite/v1ooCh7XlUdU"  align="center">
-      <img  align="center" src="https://img.shields.io/badge/-Skype-00aff0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
-    </a>
-    
+<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws" alt="aws">
+<img src="https://img.shields.io/badge/-docker-0db7ed?style=for-the-badge&logoColor=white&logo=docker" alt="docker">
+</div>
 
 
+<h2>💎 The Elixir of Excellence:</h2>
+My code isn't just functional; it's a work of art. Crafted with meticulous care, it's the key to unlocking web experiences that are not only seamless but also swift, secure, and scalable. I believe in writing code that stands the test of time and fuels your digital ambitions.
 
+<h2>🤝 Let's Collaborate:</h2>
+Whether you're a visionary startup ready to manifest your MVP, an enterprise seeking a digital metamorphosis, or an agency hunting for a development virtuoso, I'm your spellbinding solution. I'm here for freelance enigmas, consulting quests, and long-term alchemical alliances. Let's brew something magical together!
 
-
+<h2>📬 Get in Touch:</h2>
+Send your owl to explore the mystical opportunities we can conjure or to discuss your next digital odyssey. Networking, knowledge-sharing, and unraveling the secrets of the web are all fair game.
+<br/><br />
+<a href="https://github.com/owais6153"  align="center">
+  <img  align="center" src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
+</a>
+<a href="https://www.linkedin.com/in/owais6153/"  align="center">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+  <a href="mailto:owais6153@gmail.com"  align="center">
+  <img  align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+<a href="https://join.skype.com/invite/v1ooCh7XlUdU"  align="center">
+  <img  align="center" src="https://img.shields.io/badge/-Skype-00aff0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
+</a>
