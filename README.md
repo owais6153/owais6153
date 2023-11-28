@@ -28,6 +28,7 @@ With over 5 years in the web development trenches, I've navigated the ever-evolv
 <img src="https://img.shields.io/badge/-Wordpress%20Backend-00749c?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress">
   <img src="https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=Php" alt="php">
 <img src="https://img.shields.io/badge/-Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel">
+<img src="https://img.shields.io/badge/-Codeigniter-black?style=for-the-badge&logo=codeigniter" alt="codeigniter">
 </div></li>
 <li><h3>CMS Mastery:</h3>
 <div style="display: flex; gap: 5px;">
