@@ -7,6 +7,7 @@ With over 5 years in the web development trenches, I've navigated the ever-evolv
 <h2>🛠️ My Arsenal:</h2>
 <ul>
 <li><h3>Front-End Alchemy:</h3>
+<p>Transforming ordinary concepts into extraordinary digital experiences. </p>
 <div style="display: flex; gap: 5px;">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="css">
@@ -21,6 +22,7 @@ With over 5 years in the web development trenches, I've navigated the ever-evolv
 <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" />
 </div></li>
 <li><h3>Back-End Wizardry:</h3>
+<p>For over 5 enchanting years in web development, I've danced through the ever-evolving tech landscape, crafting not just interfaces but entire digital realms.</p>
 <div style="display: flex; gap: 5px;">
 <img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express" alt="Express.js">
 <img src="https://img.shields.io/badge/-Node%20JS-80ae3b?style=for-the-badge&logoColor=white&logo=Node.js" alt="node">
@@ -31,6 +33,7 @@ With over 5 years in the web development trenches, I've navigated the ever-evolv
 <img src="https://img.shields.io/badge/-Codeigniter-black?style=for-the-badge&logo=codeigniter" alt="codeigniter">
 </div></li>
 <li><h3>CMS Mastery:</h3>
+<p>Bringing magic to every line of code for seamless digital experiences.</p>
 <div style="display: flex; gap: 5px;">
 <img src="https://img.shields.io/badge/-WIX-black?style=for-the-badge&logo=wix" alt="wix">
 <img src="https://img.shields.io/badge/-Wordpress-00749c?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress">
@@ -40,18 +43,20 @@ With over 5 years in the web development trenches, I've navigated the ever-evolv
 <img src="https://img.shields.io/badge/-hubspot-ff7e5e?style=for-the-badge&logoColor=white&logo=hubspot" alt="hubspot">
 </div></li>
 <li><h3>Database Sorcery:</h3>
-
+<p>Behold the magic within databases! I summon powers from Mongo DB and MySQL, casting spells to create dynamic and efficient digital experiences.</p>
 <div style="display: flex; gap: 5px;">
   <img src="https://img.shields.io/badge/-Mongo%20db-45a33d?style=for-the-badge&logoColor=white&logo=mongodb" alt="Mongo DB">
 <img src="https://img.shields.io/badge/-MySQL-087993?style=for-the-badge&logoColor=white&logo=mysql" alt="mysql">
 </div></li>
 <li><h3>Git Enchantments:</h3>
+<p>My tool of choice to ensure the seamless flow of code magic.</p>
 <div style="display: flex; gap: 5px;">
 <img src="https://img.shields.io/badge/-Git-f15536?style=for-the-badge&logoColor=white&logo=git" alt="git">
 <img src="https://img.shields.io/badge/-github-black?style=for-the-badge&logoColor=white&logo=github" alt="github">
 <img src="https://img.shields.io/badge/-bitbucket-black?style=for-the-badge&logoColor=white&logo=bitbucket" alt="github">
 </div></li>
 <li><h3>DevOps Incantations:</h3>
+<p>Through GitHub Actions, AWS, and Docker, I conjure DevOps magic, bringing automation and efficiency to the mystical journey of development.</p>
 <div style="display: flex; gap: 5px;">
 <img src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="Github_Actions">
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws" alt="aws">
