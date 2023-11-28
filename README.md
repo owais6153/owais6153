@@ -43,7 +43,7 @@ With over 5 years in the web development trenches, I've navigated the ever-evolv
 
 <div style="display: flex; gap: 5px;">
   <img src="https://img.shields.io/badge/-Mongo%20db-45a33d?style=for-the-badge&logoColor=white&logo=mongodb" alt="Mongo DB">
-<img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql" alt="mysql">
+<img src="https://img.shields.io/badge/-MySQL-087993?style=for-the-badge&logoColor=white&logo=mysql" alt="mysql">
 </div></li>
 <li><h3>Git Enchantments:</h3>
 <div style="display: flex; gap: 5px;">
