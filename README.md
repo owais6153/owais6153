@@ -22,7 +22,7 @@ With over 5 years in the web development trenches, I've navigated the ever-evolv
 <h3>Back-End Wizardry:</h3>
 <div style="display: flex; gap: 5px;">
 <img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express" alt="Express.js">
-<img src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js" alt="node">
+<img src="https://img.shields.io/badge/-Node%20JS-80ae3b?style=for-the-badge&logoColor=white&logo=Node.js" alt="node">
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/-Wordpress%20Backend-00749c?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress">
   <img src="https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=Php" alt="php">
@@ -40,12 +40,12 @@ With over 5 years in the web development trenches, I've navigated the ever-evolv
 <h3>Database Sorcery:</h3>
 
 <div style="display: flex; gap: 5px;">
-  <img src="https://img.shields.io/badge/-Mongo%20db-black?style=for-the-badge&logo=mongodb" alt="Mongo DB">
+  <img src="https://img.shields.io/badge/-Mongo%20db-45a33d?style=for-the-badge&logoColor=white&logo=mongodb" alt="Mongo DB">
 <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql" alt="mysql">
 </div>
 <h3>Git Enchantments:</h3>
 <div style="display: flex; gap: 5px;">
-<img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" alt="git">
+<img src="https://img.shields.io/badge/-Git-f15536?style=for-the-badge&logoColor=white&logo=git" alt="git">
 <img src="https://img.shields.io/badge/-github-black?style=for-the-badge&logoColor=white&logo=github" alt="github">
 <img src="https://img.shields.io/badge/-bitbucket-black?style=for-the-badge&logoColor=white&logo=bitbucket" alt="github">
 </div>
