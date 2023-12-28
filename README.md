@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/D4D16AQH2AE3fM1-C5Q/profile-displaybackgroundimage-shrink_350_1400/0/1696810472036?e=1709164800&v=beta&t=ktBYQ6wZtWy1PWWaCa5fhuAEyF-bDkwh3Gu2iKdsfHg" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owais6153&label=Profile%20views&color=0e75b6&style=flat" alt="owais6153" /> </p>
 Welcome to my digital playground! I'm Owais Khan, your go-to Full Stack Maestro, on a mission to transform ideas into stunning, functional digital experiences. 💡💻
 
