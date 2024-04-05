@@ -1,3 +1,4 @@
+<img src="banner.png" alt="Owais Khan - Full Stack Developer" />
 Welcome to my digital playground! I'm Owais Khan, your go-to Full Stack Maestro, on a mission to transform ideas into stunning, functional digital experiences. 💡💻
 
 <h2>🌐 About Me:</h2>
