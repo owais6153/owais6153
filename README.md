@@ -54,7 +54,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working for <a href="https://github.com/designocracy">Designocracy</a> & <a href="https://github.com/Epic-Jam">Epic Jam</a>.</li>
-<li>👨‍💻 I’m currently working on mostly MERN Stack & Laravel projects.</li>
+<li>👨‍💻 I’m currently working on mostly MERN, Laravel, and Wordpress backend development projects.</li>
 <li>🧐 Learning about <strong>Serverless Architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>Blockchain & AI (Artificial Intelligence)</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/owais6153">Github</a>.</li>
 </ul>
