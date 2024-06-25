@@ -19,14 +19,14 @@
 </div></li>
 <li><h3>Back-End:</h3>
 <div style="display: flex; gap: 5px;">
-<img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express" alt="Express.js">
 <img src="https://img.shields.io/badge/-Node%20JS-80ae3b?style=for-the-badge&logoColor=white&logo=Node.js" alt="node">
+<img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express" alt="Express.js">
 <img src="https://img.shields.io/badge/-Nest-ea2845?style=for-the-badge&logo=nestjs" alt="nestjs">
-<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/-Wordpress%20Backend-00749c?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress">
   <img src="https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=Php" alt="php">
 <img src="https://img.shields.io/badge/-Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel">
 <img src="https://img.shields.io/badge/-Codeigniter-black?style=for-the-badge&logo=codeigniter" alt="codeigniter">
+<img src="https://img.shields.io/badge/-Wordpress%20Backend-00749c?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress">
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </div></li>
 <li><h3>CMS:</h3>
 <div style="display: flex; gap: 5px;">
