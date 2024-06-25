@@ -21,6 +21,7 @@
 <div style="display: flex; gap: 5px;">
 <img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express" alt="Express.js">
 <img src="https://img.shields.io/badge/-Node%20JS-80ae3b?style=for-the-badge&logoColor=white&logo=Node.js" alt="node">
+<img src="https://img.shields.io/badge/-Nest-ea2845?style=for-the-badge&logo=nestjs" alt="nestjs">
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/-Wordpress%20Backend-00749c?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress">
   <img src="https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=Php" alt="php">
@@ -29,12 +30,12 @@
 </div></li>
 <li><h3>CMS:</h3>
 <div style="display: flex; gap: 5px;">
-<img src="https://img.shields.io/badge/-WIX-black?style=for-the-badge&logo=wix" alt="wix">
+<!-- <img src="https://img.shields.io/badge/-WIX-black?style=for-the-badge&logo=wix" alt="wix"> -->
 <img src="https://img.shields.io/badge/-Wordpress-00749c?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress">
 <img src="https://img.shields.io/badge/-Webflow-black?style=for-the-badge&logo=webflow" alt="webflow">
-<img src="https://img.shields.io/badge/-shopify-95bf47?style=for-the-badge&logoColor=white&logo=shopify" alt="shopify">
-<img src="https://img.shields.io/badge/-squarespace-black?style=for-the-badge&logo=squarespace" alt="squarespace">
-<img src="https://img.shields.io/badge/-hubspot-ff7e5e?style=for-the-badge&logoColor=white&logo=hubspot" alt="hubspot">
+<!-- <img src="https://img.shields.io/badge/-shopify-95bf47?style=for-the-badge&logoColor=white&logo=shopify" alt="shopify"> -->
+<!-- <img src="https://img.shields.io/badge/-squarespace-black?style=for-the-badge&logo=squarespace" alt="squarespace"> -->
+<!-- <img src="https://img.shields.io/badge/-hubspot-ff7e5e?style=for-the-badge&logoColor=white&logo=hubspot" alt="hubspot"> -->
 </div></li>
 <li><h3>Database:</h3>
 <div style="display: flex; gap: 5px;">
