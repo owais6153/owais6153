@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/-Tailwind-222?style=for-the-badge&logo=tailwindcss" alt="tailwind css">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" alt="javascript">
+<img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript" alt="typescript">
 <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" alt="react">
 <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux" alt="redux">
 <img src="https://img.shields.io/badge/-Nextjs-556070?style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js">
