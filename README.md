@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux" alt="redux">
 <img src="https://img.shields.io/badge/-Nextjs-556070?style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js">
 <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" />
+<img alt="Apollo" src="https://img.shields.io/badge/-SUPABASE-0f0f0f?style=for-the-badge&logo=supabase&logoColor=72e3ad" />
 </div></li>
 <li><h3>Back-End:</h3>
 <div style="display: flex; gap: 5px;">
