@@ -16,7 +16,6 @@
 <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" alt="react">
 <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux" alt="redux">
 <img src="https://img.shields.io/badge/-Nextjs-556070?style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js">
-<img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" />
 <img alt="Apollo" src="https://img.shields.io/badge/-SUPABASE-0f0f0f?style=for-the-badge&logo=supabase&logoColor=72e3ad" />
 </div></li>
 <li><h3>Back-End:</h3>
@@ -28,7 +27,6 @@
 <img src="https://img.shields.io/badge/-Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel">
 <img src="https://img.shields.io/badge/-Codeigniter-black?style=for-the-badge&logo=codeigniter" alt="codeigniter">
 <img src="https://img.shields.io/badge/-Wordpress%20Backend-00749c?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress">
-<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </div></li>
 <li><h3>CMS:</h3>
 <div style="display: flex; gap: 5px;">
